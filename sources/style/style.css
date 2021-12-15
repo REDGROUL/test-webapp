@@ -1,0 +1,21 @@
+/* Breakpoint */
+/* 
+Breakpoint	Dimensions
+X-Small		<576px
+Small		≥576px
+Medium		≥768px
+Large		≥992px
+Extra 	    ≥1200px
+Extra extra large	xxl	≥1400px
+*/
+/* End Breakpoint */
+
+.theme-color-light{
+    background-color: #091227;
+    color: #EAF0FF;
+}
+
+.theme-color-night{
+    background-color: #EAF0FF;
+    color: #091227 ;
+}
